@@ -18,9 +18,13 @@ From a repl, load the `double-booked.events` namespace.
 Call `create-event!` with the following args:
 
 event-name      ;; String representing the name of the calendar event
+
 start-date      ;; String representing the starting date of the event yyyy-mm-dd
+
 start-time      ;; String representing the starting time (24hr) of the event hh:mm
+
 end-date        ;; String representing the ending date of the event yyyy-mm-dd
+
 end-time        ;; String representing the ending time (24hr) of the event hh:mm
 
 Like such:
