@@ -1,4 +1,6 @@
 # double-booked
+[![rdmcmillan](https://circleci.com/gh/rdmcmillan/double-booked.svg?style=svg)](https://app.circleci.com/pipelines/github/rdmcmillan/double-booked)
+
 When maintaining a calendar of events, it is important to know if an event overlaps with another event.
 
 Given a sequence of events, each having a start and end time, this program will return the sequence of all pairs of overlapping events.
